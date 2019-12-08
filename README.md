@@ -1,4 +1,4 @@
-# Your Project's Name
+# Ookami Research and Consulting Limited
 
 This project will provide an insight to data visualization services offered by Ookami Research and Consulting Limited.
 My Project uses publicly available data from https://data.gov.ie and uses crossfilter to slice it and dice it then dc.js and d3.js to visualize it.
@@ -105,4 +105,3 @@ I received inspiration for this project from
  - https://dc-js.github.io/dc.js/docs/stock.html
  - https://scrimba.com/g/gd3js
  - https://www.freecodecamp.org/news/learn-d3-js-in-5-minutes-c5ec29fb0725/
- 
