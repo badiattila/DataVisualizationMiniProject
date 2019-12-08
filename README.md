@@ -101,4 +101,8 @@ In addition, if it is not obvious, you should also describe how to run your code
 
 ### Acknowledgements
 
-- I received inspiration for this project from X
+I received inspiration for this project from 
+ - https://dc-js.github.io/dc.js/docs/stock.html
+ - https://scrimba.com/g/gd3js
+ - https://www.freecodecamp.org/news/learn-d3-js-in-5-minutes-c5ec29fb0725/
+ 
