@@ -2,7 +2,10 @@
 
 This project will provide an insight to data visualization services offered by Ookami Research and Consulting Limited.
 My Project uses publicly available data from https://data.gov.ie and uses crossfilter to slice it and dice it then dc.js and d3.js to visualize it.
- 
+
+## Demo
+A live demo can be found [here](https://badiattila.github.io/DataVisualizationMiniProject/).
+
 ## UX - TODO
  
 Use this section to provide insight into your UX process, 
@@ -79,22 +82,19 @@ You should also mention in this section any interesting bugs or problems you dis
 
 If this section grows too long, you may want to split it off into a separate file and link to it from here.
 
-## Deployment - TODO
+## Deployment
+This site is hosted using GitHub pages, deployed directly from the master branch. 
+The deployed site will update automatically upon new commits to the master branch. 
+In order for the site to deploy correctly on GitHub pages, the landing page must be named `index.html`.
 
-This section should describe the process you went through to deploy the project to a hosting platform (e.g. GitHub Pages or Heroku).
-
-In particular, you should provide all details of the differences between the deployed version and the development version, if any, including:
-- Different values for environment variables (Heroku Config Vars)?
-- Different configuration files?
-- Separate git branch?
-
-In addition, if it is not obvious, you should also describe how to run your code locally.
+To run locally, you can clone this repository directly into the editor of your choice by pasting `git clone https://github.com/badiattila/DataVisualizationMiniProject.git` into your terminal. 
+To cut ties with this GitHub repository, type `git remote rm origin` into the terminal.
 
 
-## Credits - TODO
+## Credits
 
 ### Content
-- The text for section Y was copied from the [Wikipedia article Z](https://en.wikipedia.org/wiki/Z)
+All content in this site were written by me. 
 
 ### Media
 - The photos used in this site were obtained from ...
